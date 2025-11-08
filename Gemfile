@@ -30,6 +30,8 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"
 
   gem "brakeman", require: false
+  gem "guard", require: false
+  gem 'guard-bundler', require: false
   gem "rubocop-rails-omakase", require: false
 end
 

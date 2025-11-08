@@ -14,3 +14,7 @@ Next steps include (in no particular order) are
 ## Tasks started, but incomplete
 
 * Lookbook added, and running but no classes have been added
+
+## Working on
+
+* Adding guard
