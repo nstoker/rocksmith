@@ -14,3 +14,11 @@ Next steps include (in no particular order) are
 ## Started
 
 * A simple, but useless, homepage
+## Tasks started, but incomplete
+
+* Lookbook added, and running but no classes have been added
+* Guard
+
+## Working on
+
+* Adding guard to run brakeman
