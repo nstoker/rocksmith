@@ -14,7 +14,8 @@ Next steps include (in no particular order) are
 ## Tasks started, but incomplete
 
 * Lookbook added, and running but no classes have been added
+* Guard
 
 ## Working on
 
-* Adding guard
+* Adding guard to run brakeman

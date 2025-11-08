@@ -31,7 +31,10 @@ group :development, :test do
 
   gem "brakeman", require: false
   gem "guard", require: false
+  gem "guard-brakeman", require: false
+  gem "guard-minitest", require: false
   gem 'guard-bundler', require: false
+  gem 'guard-livereload', require: false
   gem "rubocop-rails-omakase", require: false
 end
 
