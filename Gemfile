@@ -13,22 +13,17 @@ gem "tailwindcss-rails"
 gem "jbuilder"
 gem "bcrypt", "~> 3.1.7"
 gem "bootsnap", require: false
+gem "image_processing", "~> 1.2"
 gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 gem "thruster", require: false
 gem "kamal", require: false
 
-
-# mount Lookbook::Engine, at: "/lookbook" if Rails.env.development?
-
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
-
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
-# gem "image_processing", "~> 1.2"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
