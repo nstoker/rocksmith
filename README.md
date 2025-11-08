@@ -10,3 +10,7 @@ Next steps include (in no particular order) are
 * getting the project to run under docker to run the app on windows (mainly as I have to run Rocksmith in the Windows environment)
 * adding Lookbook for setting up View Components
 * lots of other things I haven't yet though about!
+
+## Tasks started, but incomplete
+
+* Lookbook added, and running but no classes have been added
